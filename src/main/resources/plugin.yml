@@ -1,0 +1,12 @@
+name: Modelib
+version: '1.20'
+main: tree.modelib.ModelibPlugin
+api-version: '1.20'
+authors: [thattreething14]
+commands:
+  igs:
+    description: "yep"
+  model:
+    aliases:
+      - m
+    description: "Main command"
