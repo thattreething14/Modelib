@@ -2,6 +2,8 @@
 Modelib enables you to integrate custom models into Minecraft without requiring any additional mods! Unlike other model loading plugins, its primary focus is on achieving high performance regardless of the number of players on the server.
 
 This plugin is a completely free alternative to model engine!!!!!!!!!!!!!!!!!!!!
+
+Currently in development right now so I'd just recommend using model engine for now.
 ## Features 🚀
 - **Spawn Testing**: Easily spawn mobs with custom attacks and models with ease!
 - **Display Items**: Create unique static or animated models for decoration use!
